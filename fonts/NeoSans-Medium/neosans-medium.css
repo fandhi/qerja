@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NeoSansMedium';
+    src: url('neosans-medium.eot');
+    src: url('neosans-medium.eot') format('embedded-opentype'),
+         url('neosans-medium.woff') format('woff'),
+         url('neosans-medium.ttf') format('truetype'),
+         url('neosans-medium.svg#NeoSansMedium') format('svg');
+}
